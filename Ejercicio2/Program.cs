@@ -1,0 +1,1 @@
+﻿Console.WriteLine("Bienvenido al registro de notas");
